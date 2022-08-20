@@ -1,10 +1,11 @@
+![MasterHead](http://www.houston-pc.com/wp-content/uploads/2016/05/Custom-Coding-Houston-TX-Houston-PC-Services.png)
 <h1 align="center">Hi 👋, I'm Mohit patidar</h1>
 <h3 align="center">A passionate developer/programmer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitpatidar07&label=Profile%20views&color=0e75b6&style=flat" alt="mohitpatidar07" /> </p>
 
-- 🌱 I’m currently learning **Python, Data Structure and Algorthms**
+- 🌱 I’m currently learning **Python, Data Structure and Algorithms**
 
 - 💬 Ask me about **IOT and Programming**
 
